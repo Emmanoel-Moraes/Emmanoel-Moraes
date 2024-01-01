@@ -1,5 +1,6 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=dark#gh-dark-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=default#gh-light-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-light-mode-only)
+<html>
+
+<body bgcolor="F2B000"> </body>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F2B000&height=120&section=header"/>
@@ -41,5 +42,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmanoel-Moraes&bg_color=0d1117&color=FFFFFF&line=F2B000&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
+
+</html>
+
+
 
