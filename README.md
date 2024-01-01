@@ -1,3 +1,7 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=dark#gh-dark-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=default#gh-light-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-light-mode-only)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F2B000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2B000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+MY+NAME+is+Emmanoel+Moraes;I'm+23+years+old;I'm+from+Campina+Grande,+PB;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
