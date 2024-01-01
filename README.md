@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 
 <body bgcolor="F2B000"> </body>
